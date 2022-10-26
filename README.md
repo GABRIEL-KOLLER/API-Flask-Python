@@ -1,5 +1,7 @@
  API Flask e Python
  
+ #Tecnologias
+ 
  - Python
  - Flask
  - JSON
